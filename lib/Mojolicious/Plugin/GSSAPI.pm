@@ -159,7 +159,7 @@ it under the same terms as Perl itself.
 
 =head1 AUTHOR
 
-Tobias Oetiker, <tobi@oetiker.ch>
+Tobias Oetiker, E<lt>tobi@oetiker.chE<gt>
 
 =head1 HISTORY
 
