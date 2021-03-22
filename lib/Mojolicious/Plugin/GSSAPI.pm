@@ -159,8 +159,10 @@ it under the same terms as Perl itself.
 
 =head1 AUTHOR
 
-Tobias Oetiker, E<lt>tobi@oetiker.chE<gt>
+S<Tobias Oetiker E<lt>tobi@oetiker.chE<gt>>
 
 =head1 HISTORY
 
  2021-03-22 to 0.1.0 initial version
+
+=cut

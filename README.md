@@ -79,18 +79,10 @@ it under the same terms as Perl itself.
 
 # AUTHOR
 
-Tobias Oetiker, <tobi@oetiker.ch>
+Tobias Oetiker <tobi@oetiker.ch>
 
 # HISTORY
 
 ```
 2021-03-22 to 0.1.0 initial version
 ```
-
-# POD ERRORS
-
-Hey! **The above document had some coding errors, which are explained below:**
-
-- Around line 162:
-
-    Non-ASCII character seen before =encoding in 'Tobias Oetiker,'. Assuming UTF-8
