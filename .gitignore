@@ -1,6 +1,7 @@
 Makefile
 *~
 3rd/
+blib/
 README
 NOTES
 pm_to_blib
