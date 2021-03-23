@@ -1,3 +1,7 @@
+0.1.1 2021-03-23 09:29:20 +0100 Tobias Oetiker <tobi@oetiker.ch>
+
+ - add missing Makefile.PL
+
 0.1.0 2021-03-22 16:45:24 +0100 Tobias Oetiker <tobi@oetiker.ch>
 
  - initial CPAN release

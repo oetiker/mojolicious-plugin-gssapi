@@ -61,7 +61,7 @@ And now about actually testing the plugin:
 ```
 $ perl Makefile.PL
 $ make 3rd
-$ sudo ./gssapi-demo.pl deamon
+$ sudo ./eg/gssapi-demo.pl deamon
 ```
 
 The sudo in the example above is necessary for the app to be able to read information from the `/etc/krb5.keytab`. You could also provide the demo with a copy of the file and use `export KRB5CCNAME=/opt/demo/my.keytab` to tell the demo where to find the keytab file.
