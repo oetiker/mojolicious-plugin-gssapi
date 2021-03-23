@@ -2,7 +2,7 @@ package Mojolicious::Plugin::GSSAPI;
 use Mojo::Base 'Mojolicious::Plugin', -signatures;
 use Mojo::Util qw(b64_decode);
 use GSSAPI;
-our $VERSION = '0.1.1';
+our $VERSION = '0.1.2';
 
 my $gss_exit = sub ($c,$errmsg,$status) {
     my @major_errors = $status->generic_message();

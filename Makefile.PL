@@ -15,7 +15,7 @@ WriteMakefile(
   LICENSE      => 'artistic_2',
   PREREQ_PM    =>  {
     'GSSAPI' => '0',
-    'Mojolicious' => '9.0',
+    'Mojolicious' => '9.12',
   },
   BUILD_REQUIRES => {
     'Pod::Markdown::Github' => '0.01',

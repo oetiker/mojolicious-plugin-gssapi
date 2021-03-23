@@ -1,5 +1,6 @@
 use Test::More;
-use lib $FindBin::Bin.'/../thirdparty/lib/perl5';
+use FindBin;
+use lib $FindBin::Bin.'/../3rd/lib/perl5';
 use lib $FindBin::Bin.'/../lib';
 
 use_ok Mojolicious::Plugin::GSSAPI;
